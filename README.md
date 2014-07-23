@@ -16,6 +16,10 @@ Remind people to setup their environment with:
 
 Try to limit the partecipation to 20 people / 10 pairs: over this limit is difficult to manage
 
+Instead of using the spreadsheet, try to prepare the matrix of principles with some cards/stickies and put it on the wall.
+
+Enough Post-it and Sharpies
+
 
 Agenda
 ------
