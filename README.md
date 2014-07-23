@@ -9,6 +9,7 @@ See `design_principles_presentation_deck.odp` in this repository
 Preparation
 -----------
 Remind people to setup their environment with:
+
 1. `java-jdk` >= 1.6
 2. their favourite Java IDE or Editor (IntelliJ, Eclipse, ...)
 3. optionally `gradle` 
@@ -57,6 +58,7 @@ Ideas to try:
 After
 -----
 Ask people if they want to push their code to write in the README.md:
+
 * which principle they tried
 * their learnings
 
