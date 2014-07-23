@@ -38,14 +38,16 @@ Facilitation tips:
 ------------------
 * Find co-facilitator expecially if the group is big
 * Add ground rules in the beginning if you need to manage big groups
-* To create pairs ask people to divide in "who has a laptop", "who knows java well" and try to mix them
+* To create pairs ask people to divide in "who has a laptop", "who knows java well" and try to mix them. You can ask people to stand up and create a queue based on their level of knowledge.
 * Invite someone else to explain the Game Of Life. "Who knows the game of life?"
 * If after 4-5 minutes people are stuck invite to do the smallest change to implement the story than refactoring. Avoid "Analysis paralysis"
+* If people are shy to come on stage to share their code ask the last presenter to randomly pick up next pair
 * ...
 
 
-Ideas to try:
--------------
+Ideas to try or changes to be made:
+-----------------------------------
+* Add a "don't worry, be crappy" slide to break ice before people start sharing code
 * Try variations of the zombie story
   * Random input
   * Click on the interface to change state
