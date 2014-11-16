@@ -51,7 +51,9 @@ Facilitation tips:
 
 Ideas to try or changes to be made:
 -----------------------------------
-* Add a "don't worry, be crappy" slide to break ice before people start sharing code
+* Add other languages
+* Try different starting point to see if it affects the outcomes
+* Break coding session in shorter timeboxed parts
 * Try variations of the zombie story
   * Random input
   * Click on the interface to change state
