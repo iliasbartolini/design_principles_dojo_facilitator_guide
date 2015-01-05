@@ -78,4 +78,6 @@ If they want to repeat the dojo or do with other thay can refer to this guide
 
 The example codebase:
 ---------------------
-https://github.com/iliasbartolini/design_principles_dojo
+* Java - https://github.com/iliasbartolini/design_principles_dojo
+* C# - https://github.com/lucaminudel/tensions_and_synergies_between_design_principles
+
