@@ -26,7 +26,7 @@ Agenda
 1. Divide into pairs 
 2. Start setup development environment
 3. Explain the tensions & synergies
-4. Choose a design principle or rule
+4. Choose a design principle or rule you want to follow and learn about
 5. Explain the Game of life
 6. Implement a new user story (30min)
 7. Showcase changes 
